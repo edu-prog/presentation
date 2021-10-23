@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@shower/core": "^3.3.0",
-    "@shower/ribbon": "^3.5.0"
+    "eduprog-theme": "git://github.com/edu-prog/presentation-theme"
   },
   "devDependencies": {
     "@shower/cli": "^0.3.1"
